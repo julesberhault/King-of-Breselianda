@@ -25,11 +25,11 @@ Right click | Spell attack
 
 ### Head Over Display
 
-Color | Content | Position | Color
------ | ------------ | ------------- | -------------
-🟩 | Stamina | Left | Green 🟢
-🟥 | Life | Center | Red 🔴
-🟦 | Mana | Right | Blue 🔵
+🔳 | Content | Position | Color
+--- | ------------ | ------------- | -------------
+🟩 | Stamina | Left | Green
+🟥 | Life | Center | Red
+🟦 | Mana | Right | Blue
 
 ![Snapshot 2](https://github.com/Jules-Berhault/King-of-Broselianda/blob/master/Snapshots/Snapshot_2.png)
 ![Snapshot 3](https://github.com/Jules-Berhault/King-of-Broselianda/blob/master/Snapshots/Snapshot_3.png)
