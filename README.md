@@ -1,8 +1,8 @@
- # King of Broselianda
+# King of Broselianda
 A mini game project using Unreal Engine 4 development tool
 
 ### Download game
-[King of Breselianda Game](https://drive.google.com/file/d/1B1KkJfDVB1azoMhwlUArkVu4GxNCXNMK/view?usp=sharing)
+[King of Breselianda](https://drive.google.com/file/d/1B1KkJfDVB1azoMhwlUArkVu4GxNCXNMK/view?usp=sharing)
 
 ### How to install?
 * Download __King_of_Breselianda_Game.zip__ file [here](https://drive.google.com/file/d/1B1KkJfDVB1azoMhwlUArkVu4GxNCXNMK/view?usp=sharing)
@@ -13,7 +13,7 @@ A mini game project using Unreal Engine 4 development tool
 ![Main menu](https://github.com/Jules-Berhault/King-of-Broselianda/blob/master/Snapshots/Main_menu.png)
 
 ### Project link
-[Project link](https://drive.google.com/drive/folders/1EO8ri7h5EZPfeGrPibfl_5kH43hEEme8?usp=sharing)
+[Project](https://drive.google.com/drive/folders/1EO8ri7h5EZPfeGrPibfl_5kH43hEEme8?usp=sharing)
 
 ### Download project
 [Unreal Engine 4 Project](https://drive.google.com/file/d/1gtI7HvthnNsQPhNXcvHrTH8j0Md47GGO/view?usp=sharing)
@@ -39,13 +39,15 @@ Esc | Quit game
 
 ### Head Over Display
 
-\ | Content | Position | Color
+\ | Content | Position | Color | Regeneration
 --- | ------------ | ------------- | -------------
-🟩 | Stamina | Left | Green
-🟥 | Life | Center | Red
-🟦 | Mana | Right | Blue
+🟩 | Stamina | Left | Green | [x]
+🟥 | Life | Center | Red | [x]
+🟦 | Mana | Right | Blue | [x]
 
 
 ![Snapshot 2](https://github.com/Jules-Berhault/King-of-Broselianda/blob/master/Snapshots/Snapshot_2.png)
+
+
 
 ![Snapshot 3](https://github.com/Jules-Berhault/King-of-Broselianda/blob/master/Snapshots/Snapshot_3.png)
