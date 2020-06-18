@@ -23,12 +23,12 @@ A mini game project using Unreal Engine 4 development tool
 ### Commands
 
 Command key | Action
------------- | -------------
-Q | Left
+------------ | ----------
+Q (or A) | Left
 D | Right
-Z | Up
+Z (or W) | Up
 S | Down
-A | Draw/Sheath
+A (or Q) | Draw/Sheath
 Space bar | Jump
 Space bar | Walljump
 Shift | Sprint
