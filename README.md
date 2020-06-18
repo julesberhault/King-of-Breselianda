@@ -25,7 +25,7 @@ Right click | Spell attack
 
 ### Head Over Display
 
-🔳 | Content | Position | Color
+  | Content | Position | Color
 --- | ------------ | ------------- | -------------
 🟩 | Stamina | Left | Green
 🟥 | Life | Center | Red
