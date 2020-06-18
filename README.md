@@ -2,7 +2,7 @@
 A mini game project using Unreal Engine 4 development tool
 
 ### Download game
-[__King of Breselianda__](https://drive.google.com/file/d/1B1KkJfDVB1azoMhwlUArkVu4GxNCXNMK/view?usp=sharing)
+[__Download King of Breselianda__](https://drive.google.com/file/d/1B1KkJfDVB1azoMhwlUArkVu4GxNCXNMK/view?usp=sharing)
 
 ### How to install?
 * Download __King_of_Breselianda_Game.zip__ file [__here__](https://drive.google.com/file/d/1B1KkJfDVB1azoMhwlUArkVu4GxNCXNMK/view?usp=sharing)
@@ -13,7 +13,7 @@ A mini game project using Unreal Engine 4 development tool
 ![Main menu](https://github.com/Jules-Berhault/King-of-Broselianda/blob/master/Snapshots/Main_menu.png)
 
 ### Download project
-[__Unreal Engine 4 Project__](https://drive.google.com/file/d/1gtI7HvthnNsQPhNXcvHrTH8j0Md47GGO/view?usp=sharing)
+[__Download Project (Unreal Engine 4)__](https://drive.google.com/file/d/1gtI7HvthnNsQPhNXcvHrTH8j0Md47GGO/view?usp=sharing)
 
 ### Project link
 [__Project folder__](https://drive.google.com/drive/folders/1EO8ri7h5EZPfeGrPibfl_5kH43hEEme8?usp=sharing)
