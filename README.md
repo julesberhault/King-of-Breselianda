@@ -30,7 +30,7 @@ A mini game project using Unreal Engine 4 development tool
 ⬇ | Down | S | S
 🔪 | Draw/Sheath | A | Q
 ⏫ | Jump | Space bar | Space bar
-↗ | Walljump | Space bar | Space bar
+⤴↕ | Walljump | Space bar | Space bar
 🏃‍ | Sprint | Shift | Shift
 🧎‍ | Crouch | Ctrl | Ctrl
 🗡 | Sword attack | Left click | Left click
