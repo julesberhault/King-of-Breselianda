@@ -50,13 +50,13 @@ Esc | Quit game
 
 ### Attack
 
-* Sword attack
-* Spell casting
-
-\ | Action | Damage | Time | Stamina | Mana
--- | -------------- | ------- | ----- | -------- | ---------
-🗡 | Sword attack | 50 | 0.4s | 10 | 0
-🌀 | Spell casting | 40 | 0.4s | 0 | 20
-🏃‍ | Sprint | - | - | 20 /s | 0
+\ | Action | Command key | Damage | Time | Stamina | Mana
+-- | ------------- | ------------- | ------- | ----- | -------- | ---------
+🗡 | Sword attack | Left click | 50 | 0.4s | 10 | 0
+🌀 | Spell casting | Right click | 40 | 0.4s | 0 | 20
+🏃‍ | Sprint | Shift | - | - | 20 /s | 0
+🧎‍ | Crouch | Ctrl | - | - | 0 | 0
 
 ![Snapshot 3](https://github.com/Jules-Berhault/King-of-Broselianda/blob/master/Snapshots/Snapshot_3.png)
+
+
