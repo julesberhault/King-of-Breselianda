@@ -26,7 +26,7 @@ Right click | Spell attack
 ### Head Over Display
 
 Color | Content | Position | Color
-- | ------------ | ------------- | -------------
+----- | ------------ | ------------- | -------------
 🟩 | Stamina | Left | Green 🟢
 🟥 | Life | Center | Red 🔴
 🟦 | Mana | Right | Blue 🔵
