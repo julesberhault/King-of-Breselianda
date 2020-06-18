@@ -22,5 +22,14 @@ Left click | Sword attack
 Right click | Spell attack
 
 ![Snapshot 1](https://github.com/Jules-Berhault/King-of-Broselianda/blob/master/Snapshots/Snapshot_1.png)
+
+### Head Over Display
+
+Color | Content | Position | Color
+- | ------------ | ------------- | -------------
+🟩 | Stamina | Left | Green 🟢
+🟥 | Life | Center | Red 🔴
+🟦 | Mana | Right | Blue 🔵
+
 ![Snapshot 2](https://github.com/Jules-Berhault/King-of-Broselianda/blob/master/Snapshots/Snapshot_2.png)
 ![Snapshot 3](https://github.com/Jules-Berhault/King-of-Broselianda/blob/master/Snapshots/Snapshot_3.png)
