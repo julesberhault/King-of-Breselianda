@@ -7,7 +7,7 @@ A mini game project using Unreal Engine 4 development tool
 ### How to install?
 * Download __King_of_Breselianda_Game.zip__ file [here](https://drive.google.com/file/d/1B1KkJfDVB1azoMhwlUArkVu4GxNCXNMK/view?usp=sharing)
 * Decompress file
-* Launch __King-of-Breselianda.exe__
+* Launch __King_of_Breselianda.exe__
 * Enjoy !
 
 ![Main menu](https://github.com/Jules-Berhault/King-of-Broselianda/blob/master/Snapshots/Main_menu.png)
@@ -20,12 +20,13 @@ A mini game project using Unreal Engine 4 development tool
 
 ### Commands
 
-command key | action
+Command key | Action
 ------------ | -------------
 Q | Left
 D | Right
 Z | Up
 S | Down
+A | Draw/sheath
 Space bar | Jump
 Space bar | Walljump
 Shift | Sprint
@@ -48,7 +49,7 @@ Esc | Quit game
 
 ![Snapshot 2](https://github.com/Jules-Berhault/King-of-Broselianda/blob/master/Snapshots/Snapshot_2.png)
 
-### Attack
+### Action
 
 \ | Action | Command key | Damage | Time | Stamina | Mana
 -- | ------------- | ------------- | ------- | ----- | -------- | ---------
@@ -56,6 +57,10 @@ Esc | Quit game
 🌀 | Spell casting | Right click | 40 | 0.4s | 0 | 20
 🏃‍ | Sprint | Shift | - | - | 20 /s | 0
 🧎‍ | Crouch | Ctrl | - | - | 0 | 0
+
+### Walljump
+
+You can walljump on walls by tapping space bar while jumping
 
 ![Snapshot 3](https://github.com/Jules-Berhault/King-of-Broselianda/blob/master/Snapshots/Snapshot_3.png)
 
