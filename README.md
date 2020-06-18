@@ -1,10 +1,12 @@
- ## King-of-Broselianda
+ # King of Broselianda
 A mini game project using Unreal Engine 4 development tool
 
-**Download link**
-"https://drive.google.com/drive/folders/1EO8ri7h5EZPfeGrPibfl_5kH43hEEme8?usp=sharing"
+![Main menu](https://octodex.github.com/images/yaktocat.png)
 
-**Commands**
+### Download link
+[Google Drive](https://drive.google.com/drive/folders/1EO8ri7h5EZPfeGrPibfl_5kH43hEEme8?usp=sharing)
+
+### Commands
 
 command key | action
 ------------ | -------------
