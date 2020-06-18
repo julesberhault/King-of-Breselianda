@@ -59,4 +59,8 @@ Esc | Quit game
 
 ![Snapshot 3](https://github.com/Jules-Berhault/King-of-Broselianda/blob/master/Snapshots/Snapshot_3.png)
 
+### Ennemy
 
+\ | Ennemy | Damage | Behaviour
+-- | -----  | ------ | ---------
+👻 | Ghost | 40 | Ping-ping
