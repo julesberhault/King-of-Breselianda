@@ -12,11 +12,13 @@ A mini game project using Unreal Engine 4 development tool
 
 ![Main menu](https://github.com/Jules-Berhault/King-of-Broselianda/blob/master/Snapshots/Main_menu.png)
 
-### Project link
-[Project](https://drive.google.com/drive/folders/1EO8ri7h5EZPfeGrPibfl_5kH43hEEme8?usp=sharing)
-
 ### Download project
 [Unreal Engine 4 Project](https://drive.google.com/file/d/1gtI7HvthnNsQPhNXcvHrTH8j0Md47GGO/view?usp=sharing)
+
+### Project link
+[Project](https://drive.google.com/drive/folders/1EO8ri7h5EZPfeGrPibfl_5kH43hEEme8?usp=sharing)
+* Game file: __King_of_Breselianda_Game.zip__
+* Project file: __King_of_Breselianda_Project.zip__
 
 ### Commands
 
@@ -26,7 +28,7 @@ Q | Left
 D | Right
 Z | Up
 S | Down
-A | Draw/sheath
+A | Draw/Sheath
 Space bar | Jump
 Space bar | Walljump
 Shift | Sprint
