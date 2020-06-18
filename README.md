@@ -40,7 +40,7 @@ Esc | Quit game
 ### Head Over Display
 
 \ | Content | Position | Color | Regeneration
---- | ------------ | ------------- | -------------
+--- | ----- | -------- | ----- | ------------
 🟩 | Stamina | Left | Green | [x]
 🟥 | Life | Center | Red | [x]
 🟦 | Mana | Right | Blue | [x]
