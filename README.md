@@ -41,9 +41,9 @@ Esc | Quit game
 
 \ | Content | Position | Color | Regeneration
 --- | ----- | -------- | ----- | ------------
-🟩 | Stamina | Left | Green | [x]
-🟥 | Life | Center | Red | [x]
-🟦 | Mana | Right | Blue | [x]
+🟩 | Stamina | Left | Green | Yes (fast)
+🟥 | Life | Center | Red | Yes (slow)
+🟦 | Mana | Right | Blue | Yes (slow
 
 
 ![Snapshot 2](https://github.com/Jules-Berhault/King-of-Broselianda/blob/master/Snapshots/Snapshot_2.png)
