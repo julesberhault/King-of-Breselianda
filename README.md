@@ -17,8 +17,10 @@ A mini game project using Unreal Engine 4 development tool
 
 ### Project link
 [Project](https://drive.google.com/drive/folders/1EO8ri7h5EZPfeGrPibfl_5kH43hEEme8?usp=sharing)
-* Game file: __King_of_Breselianda_Game.zip__
-* Project file: __King_of_Breselianda_Project.zip__
+
+----------   | -----------------------------------
+Game file | __King_of_Breselianda_Game.zip__
+Project file | __King_of_Breselianda_Project.zip__
 
 ### Commands
 
