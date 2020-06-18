@@ -41,13 +41,22 @@ Esc | Quit game
 
 \ | Content | Position | Color | Regeneration
 --- | ----- | -------- | ----- | ------------
-🟩 | Stamina | Left | Green | - [x]
-🟥 | Life | Center | Red | - [x]
-🟦 | Mana | Right | Blue | - [x]
+🟩 | Stamina | Left | Green | Yes
+🟥 | Life | Center | Red | Yes
+🟦 | Mana | Right | Blue | Yes
 
 
 ![Snapshot 2](https://github.com/Jules-Berhault/King-of-Broselianda/blob/master/Snapshots/Snapshot_2.png)
 
+### Attack
 
+* Sword attack
+* Spell casting
+
+\ | Action | Time | Stamina | Mana
+-- | -------------- | ----- | -------- | ---------
+🗡 | Sword attack | 0.4s | 10 | 0
+🏃‍ | Spell casting | 0.4s | 0 | 20
+🌀 | Sprint | - | 20 /s | 0
 
 ![Snapshot 3](https://github.com/Jules-Berhault/King-of-Broselianda/blob/master/Snapshots/Snapshot_3.png)
