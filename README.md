@@ -22,20 +22,20 @@ A mini game project using Unreal Engine 4 development tool
 
 ### Commands
 
-Command key | Action
+AZERTY | QWERTY | Action
 ------------ | ----------
-Q (or A) | Left
-D | Right
-Z (or W) | Up
-S | Down
-A (or Q) | Draw/Sheath
-Space bar | Jump
-Space bar | Walljump
-Shift | Sprint
-Ctrl | Crouch
-Left click | Sword attack
-Right click | Spell attack
-Esc | Quit game
+Q | A | Left
+D | D | Right
+Z | W | Up
+S | S | Down
+A | Q | Draw/Sheath
+Space bar | Space bar | Jump
+Space bar | Space bar | Walljump
+Shift | Shift | Sprint
+Ctrl | Ctrl | Crouch
+Left click | Left click | Sword attack
+Right click | Right click | Spell attack
+Esc | Esc | Quit game
 
 
 ![Snapshot 1](https://github.com/Jules-Berhault/King-of-Broselianda/blob/master/Snapshots/Snapshot_1.png)
