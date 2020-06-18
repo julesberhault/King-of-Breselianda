@@ -1,16 +1,22 @@
  # King of Broselianda
 A mini game project using Unreal Engine 4 development tool
 
-### Project link
-[Project link](https://drive.google.com/drive/folders/1EO8ri7h5EZPfeGrPibfl_5kH43hEEme8?usp=sharing)
+### Download game
+[King of Breselianda Game](https://drive.google.com/file/d/1B1KkJfDVB1azoMhwlUArkVu4GxNCXNMK/view?usp=sharing)
 
-### Download and Play
+### How to install?
 * Download __King_of_Breselianda_Game.zip__ file [here](https://drive.google.com/file/d/1B1KkJfDVB1azoMhwlUArkVu4GxNCXNMK/view?usp=sharing)
 * Decompress file
 * Launch __King-of-Breselianda.exe__
 * Enjoy !
 
 ![Main menu](https://github.com/Jules-Berhault/King-of-Broselianda/blob/master/Snapshots/Main_menu.png)
+
+### Project link
+[Project link](https://drive.google.com/drive/folders/1EO8ri7h5EZPfeGrPibfl_5kH43hEEme8?usp=sharing)
+
+### Download project
+[Unreal Engine 4 Project](https://drive.google.com/file/d/1gtI7HvthnNsQPhNXcvHrTH8j0Md47GGO/view?usp=sharing)
 
 ### Commands
 
