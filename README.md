@@ -1,8 +1,14 @@
  # King of Broselianda
 A mini game project using Unreal Engine 4 development tool
 
-### Download link
->>>[Download here](https://drive.google.com/drive/folders/1EO8ri7h5EZPfeGrPibfl_5kH43hEEme8?usp=sharing)<<<
+### Project link
+[Project link](https://drive.google.com/drive/folders/1EO8ri7h5EZPfeGrPibfl_5kH43hEEme8?usp=sharing)
+
+### Download and Play
+* Download __King_of_Breselianda_Game.zip__ file [here](https://drive.google.com/file/d/1B1KkJfDVB1azoMhwlUArkVu4GxNCXNMK/view?usp=sharing)
+* Decompress file
+* Launch __King-of-Breselianda.exe__
+* Enjoy !
 
 ![Main menu](https://github.com/Jules-Berhault/King-of-Broselianda/blob/master/Snapshots/Main_menu.png)
 
@@ -20,6 +26,7 @@ Shift | Sprint
 Ctrl | Crouch
 Left click | Sword attack
 Right click | Spell attack
+Esc | Quit game
 
 
 ![Snapshot 1](https://github.com/Jules-Berhault/King-of-Broselianda/blob/master/Snapshots/Snapshot_1.png)
