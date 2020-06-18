@@ -9,8 +9,8 @@ Q | left
 D | right
 Z | up
 S | down
-Space bar | Jump
-Double Space Bar | Walljump
+Space Bar | Jump
+Space Bar (on a wall) | Walljump
 Shift | Sprint
 Ctrl | Crouch
 Left click | Sword attack
