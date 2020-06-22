@@ -1,5 +1,5 @@
 # King of Breselianda
-A mini game project using Unreal Engine 4 development tool
+A mini game project using Unreal Engine 4 development tools
 
 ### Download game
 [__Download King of Breselianda__](https://drive.google.com/file/d/1B1KkJfDVB1azoMhwlUArkVu4GxNCXNMK/view?usp=sharing)
