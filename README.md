@@ -1,5 +1,6 @@
 # King of Breselianda
 A mini side-scroller game project using Unreal Engine 4 development tools
+Designed by Jules Berhault - 2020
 
 ![Main menu](https://github.com/Jules-Berhault/King-of-Broselianda/blob/master/Snapshots/Main_menu.png)
 
