@@ -1,6 +1,8 @@
 # King of Breselianda
 A mini side-scroller game project using Unreal Engine 4 development tools
 
+![Main menu](https://github.com/Jules-Berhault/King-of-Broselianda/blob/master/Snapshots/Main_menu.png)
+
 ### Download game
 [__Download King of Breselianda__](https://drive.google.com/file/d/1B1KkJfDVB1azoMhwlUArkVu4GxNCXNMK/view?usp=sharing)
 
@@ -9,8 +11,6 @@ A mini side-scroller game project using Unreal Engine 4 development tools
 * Decompress file
 * Launch the executable file __King_of_Breselianda.exe__
 * Enjoy !
-
-![Main menu](https://github.com/Jules-Berhault/King-of-Broselianda/blob/master/Snapshots/Main_menu.png)
 
 ### Download project
 [__Download Project (Unreal Engine 4)__](https://drive.google.com/file/d/1gtI7HvthnNsQPhNXcvHrTH8j0Md47GGO/view?usp=sharing)
