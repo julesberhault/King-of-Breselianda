@@ -7,7 +7,7 @@ A mini side-scroller game project using Unreal Engine 4 development tools
 ### How to install?
 * Download __King_of_Breselianda_Game.zip__ file [__here__](https://drive.google.com/file/d/1B1KkJfDVB1azoMhwlUArkVu4GxNCXNMK/view?usp=sharing)
 * Decompress file
-* Launch __King_of_Breselianda.exe__
+* Launch the executable file __King_of_Breselianda.exe__
 * Enjoy !
 
 ![Main menu](https://github.com/Jules-Berhault/King-of-Broselianda/blob/master/Snapshots/Main_menu.png)
