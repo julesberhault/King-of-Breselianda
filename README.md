@@ -19,7 +19,7 @@ Designed by Jules Berhault - 2020
 ### Download UE4 project
 [__Download Project (Unreal Engine 4)__](https://drive.google.com/file/d/1gtI7HvthnNsQPhNXcvHrTH8j0Md47GGO/view?usp=sharing)
 
-### Project link
+### Useful links
 [__Project folder link__](https://drive.google.com/drive/folders/1EO8ri7h5EZPfeGrPibfl_5kH43hEEme8?usp=sharing)
 * [King_of_Breselianda_Game.zip](https://drive.google.com/file/d/1B1KkJfDVB1azoMhwlUArkVu4GxNCXNMK/view?usp=sharing)
 * [King_of_Breselianda_Project.zip](https://drive.google.com/file/d/1gtI7HvthnNsQPhNXcvHrTH8j0Md47GGO/view?usp=sharing)
