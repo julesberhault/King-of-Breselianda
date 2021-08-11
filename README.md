@@ -10,7 +10,7 @@ Designed by Jules Berhault - 2020
 
 ### How to install?
 
-## Windows
+#### Windows
 * Download __King_of_Breselianda_Game.zip__ file [__here__](https://drive.google.com/file/d/1B1KkJfDVB1azoMhwlUArkVu4GxNCXNMK/view?usp=sharing)
 * Decompress file
 * Launch the executable file __King_of_Breselianda.exe__
