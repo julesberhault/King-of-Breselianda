@@ -61,7 +61,7 @@ Designed by Jules Berhault - 2020
 -- | ------------- | ------------- | ------- | ----- | -------- | ---------
 🗡 | Sword attack | Left click | 50 | 0.4s | 10 | 0
 🌀 | Spell casting | Right click | 40 | 0.4s | 0 | 20
-🏃‍ | Sprint | Shift | - | - | 20 /s | 0
+🏃‍ | Sprint | Shift | - | - | 20/s | 0
 🧎‍ | Crouch | Ctrl | - | - | 0 | 0
 
 ### Walljump
